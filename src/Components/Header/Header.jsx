@@ -1,13 +1,13 @@
 import React from 'react';
 import './Header.css';
-// import img from '../../assets/nazmul.jpg';
+import img from '../../assets/joy.jpg';
 
 const Header = () => {
     return (
         <div className='header-section'>
             <div className="container">
                 <h1>Knowledge Cafe</h1>
-                {/* <img src={img} alt="" /> */}
+                <img src={img} alt="" />
             </div>
         </div>
     );
