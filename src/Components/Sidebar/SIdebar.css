@@ -1,5 +1,6 @@
 .sidebar-div {
     padding: 0 16px;
+    position: relative;
 }
 .title-element h1{
     background: #FFF;
@@ -8,4 +9,5 @@
     line-height: 30px;
     border-radius: 8px;
     margin-top: 24px;
-}
+    position: fixed;
+};
