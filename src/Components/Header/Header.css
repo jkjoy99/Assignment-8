@@ -9,8 +9,8 @@
     border-bottom: 1px solid rgba(17, 17, 17, 0.15);
 }
 .container img{
-    width: 100px;
-    height: 100px;
+    width: 55px;
+    height: 55px;
     object-fit: cover;
     border-radius: 50px;
 }
